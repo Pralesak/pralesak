@@ -250,6 +250,77 @@ section {
   scroll-margin-top: 90px;
 }
 
+/* ===========================
+   MAPA v kontaktech
+=========================== */
+
+.mapa {
+    width: 100%;
+    max-width: 800px;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+}
+
+/* ===========================
+   MAPA v QR kódu
+=========================== */
+.qrmapa {
+    width: 250px;
+    max-width: 100%;
+    display: block;
+    margin: 20px auto;
+    border-radius: 8px;
+}
+
+/* ===========================
+   Fotogalerie
+=========================== */
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    margin: 30px 0;
+}
+
+.gallery img {
+    width: 280px;
+    height: 190px;
+    object-fit: cover;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.25);
+    transition: transform 0.3s;
+}
+
+.gallery img:hover {
+    transform: scale(1.05);
+}
+
+.zonerama {
+    text-align: center;
+    margin: 50px 0;
+}
+
+.button {
+    display: inline-block;
+    background: #8b5a2b;
+    color: white;
+    padding: 12px 24px;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: bold;
+}
+
+.button:hover {
+    background: #6f431c;
+}
+
+
+
 /* =========================
    PATIČKA
 ========================= */
