@@ -1,0 +1,34 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://pralesak.cz/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://pralesak.cz/historie.html</loc>
+  </url>
+
+  <url>
+    <loc>https://pralesak.cz/stezka.html</loc>
+  </url>
+
+  <url>
+    <loc>https://pralesak.cz/stavba.html</loc>
+  </url>
+
+  <url>
+    <loc>https://pralesak.cz/fotogalerie.html</loc>
+  </url>
+
+  <url>
+    <loc>https://pralesak.cz/akce.html</loc>
+  </url>
+
+  <url>
+    <loc>https://pralesak.cz/kontakt.html</loc>
+  </url>
+
+</urlset>
