@@ -304,8 +304,9 @@ section {
 }
 
 .gallery img {
-  width: 100%;
-  height: auto;
+  width: 280px;
+  height: 190px;
+  object-fit: cover;
   display: block;
 }
 
